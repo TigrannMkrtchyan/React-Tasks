@@ -1,0 +1,19 @@
+.SideBarButton{
+width: 93%;
+padding-top: 10px;
+padding-bottom: 10px;
+display: flex;
+padding-left: 16px;
+}
+.SideBarButton:hover{
+    background-color: rgb(180, 179, 177);
+    cursor: pointer;
+}
+.SideBarButton::selection{
+    color:rgb(6, 185, 0)
+}
+.img{ height: 15px;
+    width: 15px;
+    padding-right: 15px;
+}
+

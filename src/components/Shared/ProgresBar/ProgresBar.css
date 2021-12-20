@@ -1,0 +1,15 @@
+.progressbar {
+    background-color: rgb(172, 172, 172);
+    width: 95%; 
+    height: 33px;
+    margin-bottom: 15px;
+  }
+  
+  .progressbar>div {
+    background-color: rgb(48, 48, 48);
+    
+    height: 33px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }

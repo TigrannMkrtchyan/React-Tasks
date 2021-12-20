@@ -1,0 +1,9 @@
+.BarButtonscomponent {
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.BarButtonscomponent:hover {
+  background-color: black;
+  color: white;
+}

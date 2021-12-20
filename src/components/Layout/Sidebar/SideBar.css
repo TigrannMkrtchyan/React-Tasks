@@ -1,0 +1,40 @@
+.bar{
+    width: 400px;
+    position: sticky;
+    top: 0px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: white;
+    text-align: left;
+    
+}
+
+.avatar{
+    background-image: url("../../../../public/assets/Pics/Avatar.jpg");
+    background-size: contain;
+    height: 120px;
+    width: 120px;
+    border-radius: 2%;
+    margin-top:23px;
+    margin-left: 16px ;
+    margin-bottom:16px ;
+}
+
+.pad{
+    padding:8px 16px!important;
+}
+
+.ico{
+    padding:8px 16px!important;
+    display: flex;
+}
+
+
+
+*{font-family: "Raleway", sans-serif;}
+b{font-size: 20px;
+  }
+
+  
